@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="png">
+    <file>table_img.png</file>
+    <file>time_bg.png</file>
+  </qresource>
+</RCC>
